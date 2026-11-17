@@ -1,0 +1,9 @@
+
+.DS_Store
+*.o
+*.out
+*.exe
+__pycache__/
+.venv/
+venv/
+Assignment04 - Multi-threaded problem/prisoner
